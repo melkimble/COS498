@@ -1,0 +1,16 @@
+name: COS498_FinalPrj
+channels:
+	- conda-forge
+dependencies:
+	- python=3.6
+	- numpy
+	- scipy
+	- scikit-learn
+	- pdfminer.six
+	- PANDAS
+	- matplotlib
+	- proj4
+	- basemap=1.0.8.dev0
+	- basemap-data-hires
+	- pillow
+	- gensim
