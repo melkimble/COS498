@@ -1,0 +1,226 @@
+2018-02-17 04:20:41+0000 [-] Log opened.
+2018-02-17 04:20:41+0000 [-] twistd 16.0.0 (/usr/bin/python2 2.7.14) starting up.
+2018-02-17 04:20:41+0000 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2018-02-17 04:20:41+0000 [-] ServerFactory starting on 4000
+2018-02-17 04:20:41+0000 [-] ServerFactory (WebSocketFactory) starting on 4005
+2018-02-17 04:20:41+0000 [-] Website starting on 4001
+2018-02-17 04:20:44+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 50232) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17 04:21:18+0000 [-] Received SIGINT, shutting down.
+2018-02-17 04:21:18+0000 [-] (TCP Port 4001 Closed)
+2018-02-17 04:21:18+0000 [-] (TCP Port 4005 Closed)
+2018-02-17 04:21:18+0000 [-] (TCP Port 4000 Closed)
+2018-02-17 04:21:18+0000 [-] Main loop terminated.
+2018-02-17 04:21:18+0000 [-] Server Shut Down.
+2018-02-17T03:37:04-0500 [-] Loading d:\dropbox\01_school\18sp\cos498\muddev\evennia\evennia\server\portal\portal.py...
+2018-02-17T03:37:05-0500 [-] Loaded.
+2018-02-17T03:37:05-0500 [twisted.application.app.AppLogger#info] twistd 17.9.0 (d:\dropbox\01_school\18sp\cos498\muddev\pyenv\scripts\python.exe 2.7.14) starting up.
+2018-02-17T03:37:05-0500 [twisted.application.app.AppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2018-02-17T03:37:05-0500 [-] ServerFactory starting on 4000
+2018-02-17T03:37:05-0500 [-] ServerFactory (WebSocketFactory) starting on 4005
+2018-02-17T03:37:05-0500 [-] Website starting on 4001
+2018-02-17T03:37:06-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 50825) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T03:39:52-0500 [-] Received SIGINT, shutting down.
+2018-02-17T03:39:52-0500 [-] (TCP Port 4001 Closed)
+2018-02-17T03:39:52-0500 [-] (TCP Port 4005 Closed)
+2018-02-17T03:39:52-0500 [-] (TCP Port 4000 Closed)
+2018-02-17T03:39:52-0500 [-] Main loop terminated.
+2018-02-17T03:39:52-0500 [-] Server Shut Down.
+2018-02-17T03:39:52-0500 [twisted.application.app.AppLogger#info] Server Shut Down.
+2018-02-17T16:48:25-0500 [-] Loading d:\dropbox\01_school\18sp\cos498\muddev\evennia\evennia\server\portal\portal.py...
+2018-02-17T16:48:28-0500 [-] Loaded.
+2018-02-17T16:48:28-0500 [twisted.application.app.AppLogger#info] twistd 17.9.0 (d:\dropbox\01_school\18sp\cos498\muddev\pyenv\scripts\python.exe 2.7.14) starting up.
+2018-02-17T16:48:28-0500 [twisted.application.app.AppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2018-02-17T16:48:28-0500 [-] ServerFactory starting on 4000
+2018-02-17T16:48:28-0500 [-] ServerFactory (WebSocketFactory) starting on 4005
+2018-02-17T16:48:28-0500 [-] Website starting on 4001
+2018-02-17T16:48:28-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 53583) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T17:17:46-0500 [-] Received SIGINT, shutting down.
+2018-02-17T17:17:46-0500 [-] (TCP Port 4001 Closed)
+2018-02-17T17:17:46-0500 [-] (TCP Port 4005 Closed)
+2018-02-17T17:17:46-0500 [-] (TCP Port 4000 Closed)
+2018-02-17T17:17:46-0500 [-] Main loop terminated.
+2018-02-17T17:17:46-0500 [-] Server Shut Down.
+2018-02-17T17:17:46-0500 [twisted.application.app.AppLogger#info] Server Shut Down.
+2018-02-17T17:18:47-0500 [-] Loading d:\dropbox\01_school\18sp\cos498\muddev\evennia\evennia\server\portal\portal.py...
+2018-02-17T17:18:49-0500 [-] Loaded.
+2018-02-17T17:18:49-0500 [twisted.application.app.AppLogger#info] twistd 17.9.0 (d:\dropbox\01_school\18sp\cos498\muddev\pyenv\scripts\python.exe 2.7.14) starting up.
+2018-02-17T17:18:49-0500 [twisted.application.app.AppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2018-02-17T17:18:49-0500 [-] ServerFactory starting on 4000
+2018-02-17T17:18:49-0500 [-] ServerFactory (WebSocketFactory) starting on 4005
+2018-02-17T17:18:49-0500 [-] Website starting on 4001
+2018-02-17T17:18:50-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 53770) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T18:57:28-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54411) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T19:00:08-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54424) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T19:34:56-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54603) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T19:39:54-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54622) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T20:10:55-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 54686) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T21:07:38-0500 [-] Loading d:\dropbox\01_school\18sp\cos498\muddev\evennia\evennia\server\portal\portal.py...
+2018-02-17T21:07:40-0500 [-] Loaded.
+2018-02-17T21:07:40-0500 [twisted.application.app.AppLogger#info] twistd 17.9.0 (d:\dropbox\01_school\18sp\cos498\muddev\pyenv\scripts\python.exe 2.7.14) starting up.
+2018-02-17T21:07:40-0500 [twisted.application.app.AppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2018-02-17T21:07:40-0500 [-] ServerFactory starting on 4000
+2018-02-17T21:07:40-0500 [-] ServerFactory (WebSocketFactory) starting on 4005
+2018-02-17T21:07:40-0500 [-] Website starting on 4001
+2018-02-17T21:07:41-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 55064) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T22:14:35-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 55185) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T23:09:42-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 55453) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T23:11:43-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 55464) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T23:27:56-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 55633) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T23:29:40-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 55637) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T23:30:53-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 55641) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T23:31:45-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 55645) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T23:41:46-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 55704) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-17T23:42:18-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 55708) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T02:05:52-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56033) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T02:15:29-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56050) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T02:18:48-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56055) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T03:13:44-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56202) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T03:16:26-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56214) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T03:19:10-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56219) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T03:33:15-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56353) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T04:31:30-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56688) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:15:41-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56951) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:16:31-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56955) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:19:48-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56970) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:22:29-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56976) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:23:49-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56980) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:25:43-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56984) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:26:47-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56990) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:30:05-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56995) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:31:17-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 57199) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:35:03-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 57247) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:35:33-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 57252) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:36:37-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 57263) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:37:34-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 57269) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:38:38-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 57275) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:40:07-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 57282) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:41:15-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 57288) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:42:24-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 57292) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:43:04-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 57297) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:43:32-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 57301) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T05:44:34-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 57308) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T06:26:41-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 57494) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T13:07:51-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 58478) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T13:10:19-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 58485) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T13:13:04-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 58494) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T13:28:09-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 58757) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T13:31:02-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 58762) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T13:33:57-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 58796) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T13:46:58-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 58897) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T13:59:23-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 58911) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T14:01:25-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 58916) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T14:03:41-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 58931) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T14:32:21-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 58997) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T14:45:36-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 59030) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T14:46:48-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 59035) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T14:48:07-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 59041) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T14:49:24-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 59045) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T15:05:08-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 59115) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T15:08:55-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 59123) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T15:10:17-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 59128) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T15:12:19-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 59135) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T15:13:47-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 59139) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T15:14:42-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 59143) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T21:55:01-0500 [-] Loading d:\dropbox\01_school\18sp\cos498\muddev\evennia\evennia\server\portal\portal.py...
+2018-02-18T21:55:03-0500 [-] Loaded.
+2018-02-18T21:55:03-0500 [twisted.application.app.AppLogger#info] twistd 17.9.0 (d:\dropbox\01_school\18sp\cos498\muddev\pyenv\scripts\python.exe 2.7.14) starting up.
+2018-02-18T21:55:03-0500 [twisted.application.app.AppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2018-02-18T21:55:03-0500 [-] ServerFactory starting on 4000
+2018-02-18T21:55:03-0500 [-] ServerFactory (WebSocketFactory) starting on 4005
+2018-02-18T21:55:03-0500 [-] Website starting on 4001
+2018-02-18T21:55:04-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 60740) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T22:04:15-0500 [-] Timing out client: IPv4Address(TCP, '127.0.0.1', 60886)
+2018-02-18T22:04:16-0500 [-] Timing out client: IPv4Address(TCP, '127.0.0.1', 60883)
+2018-02-18T22:15:24-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61150) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T22:17:24-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61155) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T22:18:42-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61165) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T23:16:19-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61523) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T23:28:27-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61647) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T23:28:46-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61651) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T23:31:51-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61655) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T23:34:01-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61705) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T23:40:11-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61777) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T23:45:16-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61818) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T23:46:41-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61844) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T23:51:26-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61905) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-18T23:57:42-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61933) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T00:01:54-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 61981) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T00:05:51-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62010) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T00:12:20-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62021) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T00:12:39-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62025) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T00:19:43-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62083) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T00:22:47-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62099) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T00:34:34-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62245) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T00:35:57-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62254) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T00:39:29-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62272) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T00:41:07-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62279) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T00:42:50-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62283) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T01:38:05-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62488) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T01:38:49-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62494) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T01:42:04-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62501) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T01:46:08-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62513) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T01:48:19-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62519) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T01:48:50-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62523) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T01:49:27-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62527) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T01:50:26-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62531) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T01:54:46-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62539) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T01:55:41-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62546) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+ackages\twisted\application\internet.py", line 114, in privilegedStartService
+2018-02-19T00:21:32-0500 [stderr#error]     self._port = self._getPort()
+2018-02-19T00:21:32-0500 [stderr#error]   File "D:\Dropbox\01_School\18SP\COS498\muddev\pyenv\Lib\site-packages\twisted\application\internet.py", line 142, in _getPort
+2018-02-19T00:21:32-0500 [stderr#error]     'listen%s' % (self.method,))(*self.args, **self.kwargs)
+2018-02-19T00:21:32-0500 [stderr#error]   File "D:\Dropbox\01_School\18SP\COS498\muddev\pyenv\Lib\site-packages\twisted\internet\posixbase.py", line 495, in listenTCP
+2018-02-19T00:21:32-0500 [stderr#error]     p.startListening()
+2018-02-19T00:21:32-0500 [stderr#error]   File "D:\Dropbox\01_School\18SP\COS498\muddev\pyenv\Lib\site-packages\twisted\internet\tcp.py", line 980, in startListening
+2018-02-19T00:21:32-0500 [stderr#error]     raise CannotListenError(self.interface, self.port, le)
+2018-02-19T00:21:32-0500 [stderr#error] twisted.internet.error.CannotListenError: Couldn't listen on 0.0.0.0:4000: [Errno 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2018-02-19T02:24:33-0500 [-] Loading d:\dropbox\01_school\18sp\cos498\muddev\evennia\evennia\server\portal\portal.py...
+2018-02-19T02:24:34-0500 [-] Loaded.
+2018-02-19T02:24:34-0500 [twisted.application.app.AppLogger#info] twistd 17.9.0 (d:\dropbox\01_school\18sp\cos498\muddev\pyenv\scripts\python.exe 2.7.14) starting up.
+2018-02-19T02:24:34-0500 [twisted.application.app.AppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2018-02-19T02:24:34-0500 [-] ServerFactory starting on 4000
+2018-02-19T02:24:34-0500 [-] ServerFactory (WebSocketFactory) starting on 4005
+2018-02-19T02:24:34-0500 [-] Website starting on 4001
+2018-02-19T02:24:35-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62885) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T02:25:46-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62890) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-19T22:13:29-0500 [-] Loading d:\dropbox\01_school\18sp\cos498\muddev\evennia\evennia\server\portal\portal.py...
+2018-02-19T22:13:31-0500 [-] Loaded.
+2018-02-19T22:13:31-0500 [twisted.application.app.AppLogger#info] twistd 17.9.0 (d:\dropbox\01_school\18sp\cos498\muddev\pyenv\scripts\python.exe 2.7.14) starting up.
+2018-02-19T22:13:31-0500 [twisted.application.app.AppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2018-02-19T22:13:31-0500 [-] ServerFactory starting on 4000
+2018-02-19T22:13:31-0500 [-] ServerFactory (WebSocketFactory) starting on 4005
+2018-02-19T22:13:31-0500 [-] Website starting on 4001
+2018-02-19T22:13:32-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 62582) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-21T21:26:16-0500 [-] Loading d:\dropbox\01_school\18sp\cos498\muddev\evennia\evennia\server\portal\portal.py...
+2018-02-21T21:26:18-0500 [-] Loaded.
+2018-02-21T21:26:18-0500 [twisted.application.app.AppLogger#info] twistd 17.9.0 (d:\dropbox\01_school\18sp\cos498\muddev\pyenv\scripts\python.exe 2.7.14) starting up.
+2018-02-21T21:26:18-0500 [twisted.application.app.AppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2018-02-21T21:26:18-0500 [-] ServerFactory starting on 4000
+2018-02-21T21:26:18-0500 [-] ServerFactory (WebSocketFactory) starting on 4005
+2018-02-21T21:26:18-0500 [-] Website starting on 4001
+2018-02-21T21:26:19-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56348) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-21T21:44:19-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56410) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-21T21:57:14-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56496) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-21T22:19:46-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56560) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-21T22:21:24-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56564) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-21T22:21:53-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 56568) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-26T19:53:03-0500 [-] Loading d:\dropbox\01_school\18sp\cos498\muddev\evennia\evennia\server\portal\portal.py...
+2018-02-26T19:53:05-0500 [-] Loaded.
+2018-02-26T19:53:05-0500 [twisted.application.app.AppLogger#info] twistd 17.9.0 (d:\dropbox\01_school\18sp\cos498\muddev\pyenv\scripts\python.exe 2.7.14) starting up.
+2018-02-26T19:53:05-0500 [twisted.application.app.AppLogger#info] reactor class: twisted.internet.selectreactor.SelectReactor.
+2018-02-26T19:53:05-0500 [-] ServerFactory starting on 4000
+2018-02-26T19:53:05-0500 [-] ServerFactory (WebSocketFactory) starting on 4005
+2018-02-26T19:53:05-0500 [-] Website starting on 4001
+2018-02-26T19:53:05-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 49564) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-26T19:53:36-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 49569) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-26T20:00:22-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 49622) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-26T20:06:30-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 49674) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-26T20:18:24-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 49735) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-26T20:18:54-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 49739) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-26T20:20:51-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 49745) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-26T20:25:16-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 49752) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-26T20:26:14-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 49756) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-26T20:27:35-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 49775) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-26T20:27:50-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 49779) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-26T20:29:09-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 49783) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-02-26T20:30:41-0500 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 49791) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
